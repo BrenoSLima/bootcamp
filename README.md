@@ -1,6 +1,6 @@
 # Data science Bootcamp
 
-## What it is
+## What is it?
 Different tasks i made in a bootcamp. They were written by me and were based on courses, articles and videos about various data science topic, such as NLP, computer vision, deep learning and more.
 
 ## What i learned
