@@ -1,7 +1,5 @@
 # Data science Bootcamp
 
-Click on the .ipynb files to visualize the documents
-
 ## What it is
 Different tasks i made in a bootcamp. They were written by me and were based on courses, articles and videos about various data science topic, such as NLP, computer vision, deep learning and more.
 
@@ -14,3 +12,5 @@ As my final bootcamp project, I identified a real problem, then created a custom
 en - english version
 
 pt - portuguese version
+
+Click on the .ipynb files to visualize the documents
